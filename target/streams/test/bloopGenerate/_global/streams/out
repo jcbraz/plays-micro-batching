@@ -1,0 +1,4 @@
+[debug] [plays-micro-batching-test] Classpath dependencies List()
+[debug] [plays-micro-batching-test] Dependencies from configurations List(plays-micro-batching)
+[debug] Bloop wrote the configuration of project 'plays-micro-batching-test' to '/Users/jcbraz/Projects/plays-micro-batching/.bloop/plays-micro-batching-test.json'
+[success] Generated .bloop/plays-micro-batching-test.json
